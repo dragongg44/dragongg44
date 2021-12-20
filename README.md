@@ -12,7 +12,7 @@ Compétences : / HTML / CSS / JS / PYTHON / C++ /
 
 
 <h1 align="center">👋Salut, Je suis André</h1>
-<img src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e478j5zfpyk7ud6qc7csg69hli5ojcvsi3n50v1e5ml&rid=giphy.gif&ct=g">
+<img align="center" src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e478j5zfpyk7ud6qc7csg69hli5ojcvsi3n50v1e5ml&rid=giphy.gif&ct=g">
 <h3 align="center">Un développeur front-end passionné</h3>
 
 <h3 align="left">Connectez-vous avec moi:</h3>
